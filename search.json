@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-11-23T09:34:23-05:00"
+      "last_modified": "2021-11-23T09:44:09-05:00"
     },
     {
       "path": "index.html",
-      "title": "A gentle intro to Package Management in R",
+      "title": "Posts",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-11-23T09:34:23-05:00"
+      "last_modified": "2021-11-23T09:44:09-05:00"
     }
   ],
   "collections": ["posts/posts.json"]
