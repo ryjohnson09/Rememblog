@@ -1,8 +1,8 @@
-name: "Rememblog"
-title: "Rememblog"
+name: "."
+title: "A gentle intro to Package Management in R"
 description: |
-  Rememblog
-output_dir: "docs"
+  A gentle intro to Package Management in R
+output_dir: "_site"
 navbar:
   right:
     - text: "Home"
