@@ -1,7 +1,7 @@
 name: "."
-title: "A gentle intro to Package Management in R"
+title: "Rememblog"
 description: |
-  A gentle intro to Package Management in R
+   Blogging what I need to remember!
 output_dir: "."
 base_url:: https://ryjohnson09.github.io/Rememblog/
 navbar:
