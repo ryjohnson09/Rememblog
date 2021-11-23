@@ -1,5 +1,5 @@
 ---
-title: "A gentle intro to Package Management in R"
+title: "Posts"
 site: distill::distill_website
 listing: posts
 ---

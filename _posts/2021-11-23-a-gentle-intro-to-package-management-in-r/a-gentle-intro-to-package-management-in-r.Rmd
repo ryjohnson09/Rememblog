@@ -4,7 +4,6 @@ description: |
   R packages are what truly make R great! This primer will make sure you know exactly where you are installing packages from (what repositories), and where you are installing them to on your computer/server (what libraries).
 author: Ryan Johnson
 date: 2021-11-23
-base_url: https://ryjohnson09.github.io/Rememblog
 preview: images/libraries.jpg
 output:
   distill::distill_article:
