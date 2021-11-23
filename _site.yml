@@ -2,7 +2,7 @@ name: "."
 title: "A gentle intro to Package Management in R"
 description: |
   A gentle intro to Package Management in R
-output_dir: "_site"
+output_dir: "."
 base_url:: https://ryjohnson09.github.io/Rememblog/
 navbar:
   right:
